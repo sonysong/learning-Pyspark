@@ -3,6 +3,7 @@ Provide the program guide for pyspark big data development.
 
 # Chapter 1. Environment setup for local development
 ## 1. install git client end
+  https://git-scm.com/downloads/win
 ## 2. install JDK
 ## 3. install python 3
 ## 4. install hadoop
